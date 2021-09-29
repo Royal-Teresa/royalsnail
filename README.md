@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Teresa
+- 👀 I’m interested in html css javascript vue bootstrap jqurey Ajax AngularJS nodejs Zepto MongoDB webpack  reactnative TypeScript git and so on
+- 🌱 I’m currently learning vue
+- 💞️ I’m looking to collaborate on web development
+- 📫 email:qimelroyal@foxmail.com
